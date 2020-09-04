@@ -1,0 +1,12 @@
+.main-style img {
+    width: 150px;
+    padding-top: 20px
+}
+
+.main-style {
+    display: flex;
+}
+
+.details {
+    margin-left: 50px
+}
